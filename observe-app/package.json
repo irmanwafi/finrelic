@@ -1,0 +1,12 @@
+{
+  "name": "observe-app",
+  "version": "1.0.0",
+  "description": "A backend application for observability learning with New Relic APM",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
